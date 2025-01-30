@@ -21,13 +21,9 @@ Unlike other meme coins that pretend to go to the moon, ENC is proudly committed
 2. When M2 goes up, we mint more ENC
 3. That's it. That's literally it. We just keep printing.
 
-## 🤔 Why Would Anyone Want This?
-
-Great question! Unlike other cryptocurrencies that try to hide the fact that they're worthless, we're completely transparent about it. Think of ENC as performance art in the form of a cryptocurrency.
-
 ## 🛠 Technical Implementation
 
-- Built on Solana (because if you're going to make a joke currency, it should at least be fast and cheap to transfer)
+- Built on Solana (because if you're going to make a joke currency, it should at be fast and cheap to transfer)
 - Integrated with Switchboard oracles for M2 supply data
 - Smart contracts that make you question your life choices
 - Fully automated money printer that goes "brrr"
@@ -64,8 +60,6 @@ This project is licensed under the "Do Whatever You Want, It's Not Like It Matte
 Special thanks to:
 - The Federal Reserve, for the inspiration
 - Jerome Powell, for the continuous entertainment
-- The entire crypto community, for pretending this makes sense
-
 ---
 
 *Remember: Unlike other cryptocurrencies that accidentally go to zero, we're doing it on purpose!*
